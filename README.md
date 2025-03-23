@@ -2,7 +2,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Uni-Creator/LungCancerClassification?style=social)  ![GitHub forks](https://img.shields.io/github/forks/Uni-Creator/LungCancerClassification?style=social)
 
 This repository contains a deep learning-based cancer type prediction system using a trained convolutional neural network (CNN). The model is deployed using Streamlit, allowing users to upload medical images and receive predictions with a probability distribution displayed in a pie chart.
-
+#DATASET : https://drive.google.com/drive/folders/1dVKBIeqdFQH8075ffH70wygCvJnxMPVY?usp=sharing
 ## Features
 
 - Upload an image of a tissue sample.
